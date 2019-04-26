@@ -13,4 +13,6 @@
 			margin: 10px; 
 			}
 
-       .pure-menu-link {color: #34F8FE;}
+  .pure-menu-link {color: #34F8FE;}
+
+a:hover {color: #FA7C24;}
